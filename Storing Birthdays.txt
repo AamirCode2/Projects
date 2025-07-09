@@ -1,0 +1,7 @@
+George = "September 9th"
+Mario = "July 17th"
+Peter = "March 1st"
+Katy = "October 22nd"
+Shiva = "December 7th"
+
+print (George, Mario, Peter, Katy, Shiva)
